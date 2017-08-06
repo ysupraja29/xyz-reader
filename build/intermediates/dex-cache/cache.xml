@@ -12,24 +12,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/libs/volley.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
-        <dex dex="/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/pre-dexed/debug/volley_8b0bbcbf8bfe15991205f53f405a1353d0900fcf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/janardhanyerranagu/.android/build-cache/e87a2482728eae00c7aac28e9cf397bc4c07249f/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
-        <dex dex="/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/pre-dexed/debug/classes_5cb6de121a4dda4438da2c8a4ceaff097d31a7b5.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/janardhanyerranagu/.android/build-cache/559563da435cc4ded6c6c92d5d1914351fc4d4a8/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -48,30 +30,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/janardhanyerranagu/.android/build-cache/3314c4d97fb303742fc7c1d6166c8174b784bd74/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
-        <dex dex="/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/pre-dexed/debug/classes_9dd845f81533b62fbcf431de2104ff5875859fc7.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/janardhanyerranagu/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="7052283359001bb108753cb0583a887d3bf94c82">
         <dex dex="/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2_00b73501366a493b4157507e26ea77ff707691b7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/janardhanyerranagu/.android/build-cache/e639ec913c0091d3db51807bedc103b29c7f8af9/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="167a5721524b1d2810d1b41ed76eff1d53a0e82b">
-        <dex dex="/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/pre-dexed/debug/classes_cea62a590620c8d8ac586a2f534d634ca68c1b75.jar" />
     </item>
     <item
         is-multidex="false"
@@ -108,6 +72,51 @@
         revision="25.0.0"
         sha1="92e3fc113ec3ee36b64603a38857b95700025633">
         <dex dex="/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-23.1.0_9ac44fc83d4ecfb1b853405e90b62d452aa47ced.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/pre-dexed/debug/volley_8b0bbcbf8bfe15991205f53f405a1353d0900fcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/janardhanyerranagu/.android/build-cache/e87a2482728eae00c7aac28e9cf397bc4c07249f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/pre-dexed/debug/classes_5cb6de121a4dda4438da2c8a4ceaff097d31a7b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/pre-dexed/debug/volley_ffecce35760802b5c3bcb612aa31d7a83a070f1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/janardhanyerranagu/.android/build-cache/3314c4d97fb303742fc7c1d6166c8174b784bd74/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/pre-dexed/debug/classes_9dd845f81533b62fbcf431de2104ff5875859fc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/janardhanyerranagu/.android/build-cache/e639ec913c0091d3db51807bedc103b29c7f8af9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="167a5721524b1d2810d1b41ed76eff1d53a0e82b">
+        <dex dex="/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/pre-dexed/debug/classes_cea62a590620c8d8ac586a2f534d634ca68c1b75.jar" />
     </item>
 
 </items>

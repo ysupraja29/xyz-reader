@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable-nodpi/details_empty.png",
+        "source": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/src/main/res/drawable-nodpi/details_empty.png"
+    },
+    {
         "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable-nodpi/empty_detail.png",
         "source": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/src/main/res/drawable-nodpi/empty_detail.png"
     }

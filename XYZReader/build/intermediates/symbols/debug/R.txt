@@ -593,9 +593,9 @@ int drawable abc_textfield_search_default_mtrl_alpha 0x7f020043
 int drawable abc_textfield_search_material 0x7f020044
 int drawable design_fab_background 0x7f020045
 int drawable design_snackbar_background 0x7f020046
-int drawable empty_detail 0x7f020047
+int drawable details_empty 0x7f020047
 int drawable ic_arrow_back 0x7f020048
-int drawable ic_share 0x7f020049
+int drawable ic_share_icon 0x7f020049
 int drawable logo 0x7f02004a
 int drawable notification_template_icon_bg 0x7f02004e
 int drawable padded_divider 0x7f02004b
@@ -657,6 +657,7 @@ int id enterAlwaysCollapsed 0x7f0e0016
 int id exitUntilCollapsed 0x7f0e0017
 int id expand_activities_button 0x7f0e003e
 int id expanded_menu 0x7f0e0051
+int id fab_share 0x7f0e0080
 int id fill 0x7f0e002d
 int id fill_horizontal 0x7f0e002e
 int id fill_vertical 0x7f0e0021
@@ -713,7 +714,6 @@ int id search_plate 0x7f0e0062
 int id search_src_text 0x7f0e0063
 int id search_voice_btn 0x7f0e0067
 int id select_dialog_listview 0x7f0e0068
-int id share_fab 0x7f0e0080
 int id shortcut 0x7f0e0053
 int id showCustom 0x7f0e0011
 int id showHome 0x7f0e0012
@@ -1601,5 +1601,5 @@ int[] styleable ViewStubCompat { 0x010100d0, 0x010100f2, 0x010100f3 }
 int styleable ViewStubCompat_android_id 0
 int styleable ViewStubCompat_android_inflatedId 2
 int styleable ViewStubCompat_android_layout 1
-int transition detail_fragment_enter_transition 0x7f060000
-int transition detail_fragment_exit_transition 0x7f060001
+int transition enter_transition 0x7f060000
+int transition exit_transition 0x7f060001

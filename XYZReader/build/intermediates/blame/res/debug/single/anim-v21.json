@@ -2,5 +2,9 @@
     {
         "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/anim-v21/fab_state_list_anim.xml",
         "source": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/src/main/res/anim-v21/fab_state_list_anim.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/anim-v21/fab_state_list_anim.xml",
+        "source": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/src/main/res/anim-v21/fab_state_list_anim.xml"
     }
 ]

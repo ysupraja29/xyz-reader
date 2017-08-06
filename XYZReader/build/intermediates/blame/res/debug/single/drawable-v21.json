@@ -8,7 +8,19 @@
         "source": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/src/main/res/drawable-v21/white_selectable_item_background_circle.xml"
     },
     {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/white_selectable_item_background_circle.xml",
+        "source": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/src/main/res/drawable-v21/white_selectable_item_background_circle.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
         "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
         "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     }
 ]

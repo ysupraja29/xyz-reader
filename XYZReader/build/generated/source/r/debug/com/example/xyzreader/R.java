@@ -2331,9 +2331,9 @@ containing a value of this type.
         public static final int abc_textfield_search_material=0x7f020044;
         public static final int design_fab_background=0x7f020045;
         public static final int design_snackbar_background=0x7f020046;
-        public static final int details_empty =0x7f020047;
+        public static final int details_empty=0x7f020047;
         public static final int ic_arrow_back=0x7f020048;
-        public static final int ic_share_icon =0x7f020049;
+        public static final int ic_share_icon=0x7f020049;
         public static final int logo=0x7f02004a;
         public static final int notification_template_icon_bg=0x7f02004e;
         public static final int padded_divider=0x7f02004b;
@@ -2399,6 +2399,7 @@ containing a value of this type.
         public static final int exitUntilCollapsed=0x7f0e0017;
         public static final int expand_activities_button=0x7f0e003e;
         public static final int expanded_menu=0x7f0e0051;
+        public static final int fab_share=0x7f0e0080;
         public static final int fill=0x7f0e002d;
         public static final int fill_horizontal=0x7f0e002e;
         public static final int fill_vertical=0x7f0e0021;
@@ -2455,7 +2456,6 @@ containing a value of this type.
         public static final int search_src_text=0x7f0e0063;
         public static final int search_voice_btn=0x7f0e0067;
         public static final int select_dialog_listview=0x7f0e0068;
-        public static final int share_fab=0x7f0e0080;
         public static final int shortcut=0x7f0e0053;
         public static final int showCustom=0x7f0e0011;
         public static final int showHome=0x7f0e0012;
@@ -2925,8 +2925,8 @@ containing a value of this type.
         public static final int Widget_Design_TextInputLayout=0x7f0a014b;
     }
     public static final class transition {
-        public static final int enter_transition =0x7f060000;
-        public static final int exit_transition =0x7f060001;
+        public static final int enter_transition=0x7f060000;
+        public static final int exit_transition=0x7f060001;
     }
     public static final class styleable {
         /** Attributes that can be used with a ActionBar.

@@ -4,7 +4,15 @@
         "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
         "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
         "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     }
 ]

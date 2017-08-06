@@ -1,11 +1,127 @@
 [
     {
-        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_btn_radio_material.xml"
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_dialog_material_background_dark.xml"
     },
     {
         "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
         "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/e87a2482728eae00c7aac28e9cf397bc4c07249f/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/white_selectable_item_background_circle.xml",
+        "source": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/src/main/res/drawable/white_selectable_item_background_circle.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/e87a2482728eae00c7aac28e9cf397bc4c07249f/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/padded_divider.xml",
+        "source": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/src/main/res/drawable/padded_divider.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/padded_divider.xml",
+        "source": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/src/main/res/drawable/padded_divider.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_btn_radio_material.xml"
     },
     {
         "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
@@ -20,35 +136,39 @@
         "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/white_selectable_item_background_circle.xml",
-        "source": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/src/main/res/drawable/white_selectable_item_background_circle.xml"
-    },
-    {
-        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_seekbar_track_material.xml"
-    },
-    {
         "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
         "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_item_background_holo_light.xml"
     },
     {
         "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/photo_background_protection.xml",
         "source": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/src/main/res/drawable/photo_background_protection.xml"
     },
     {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/white_selectable_item_background_circle.xml",
+        "source": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/src/main/res/drawable/white_selectable_item_background_circle.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
         "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
         "source": "/Users/janardhanyerranagu/.android/build-cache/e87a2482728eae00c7aac28e9cf397bc4c07249f/output/res/drawable/design_snackbar_background.xml"
     },
     {
-        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_edit_text_material.xml"
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_btn_borderless_material.xml"
     },
     {
         "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
         "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_cab_background_top_material.xml"
     },
     {
@@ -56,8 +176,12 @@
         "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_textfield_search_material.xml"
     },
     {
         "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
@@ -72,12 +196,8 @@
         "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_btn_colored_material.xml"
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/photo_background_protection.xml",
+        "source": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/src/main/res/drawable/photo_background_protection.xml"
     },
     {
         "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
@@ -96,23 +216,19 @@
         "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_btn_check_material.xml"
     },
     {
         "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
         "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/padded_divider.xml",
-        "source": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/src/main/res/drawable/padded_divider.xml"
-    },
-    {
-        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/drawable/abc_seekbar_track_material.xml"
     }
 ]

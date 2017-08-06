@@ -1,4 +1,4 @@
-#Sun Aug 06 12:49:35 IST 2017
-base.0=/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Sun Aug 06 16:32:19 IST 2017
+base.0=/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/Users/janardhanyerranagu/Stuff/Android ND/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
