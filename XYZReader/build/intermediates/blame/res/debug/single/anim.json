@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/e87a2482728eae00c7aac28e9cf397bc4c07249f/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/e87a2482728eae00c7aac28e9cf397bc4c07249f/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/e87a2482728eae00c7aac28e9cf397bc4c07249f/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/e87a2482728eae00c7aac28e9cf397bc4c07249f/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/janardhanyerranagu/Stuff/Android ND/XYZReader-Android-Nanodegree-Project_5-master/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/janardhanyerranagu/.android/build-cache/6c9b9041006d8c4faf6740989947b317a1be8c2b/output/res/anim/abc_slide_out_bottom.xml"
+    }
+]
